@@ -21,12 +21,12 @@ The analysis explores customer churn patterns, focusing on various factors such 
     - Customers with less than one year of tenure are the most likely to churn, with a 50% churn rate. Those with 1-3 years of tenure show a decreasing churn trend       at 35%, while customers who have been with the company for more than three years have a churn rate of just 15%.
      -**Implication:** Engaging customers early in their journey, especially within the first year, is critical for retention.
       
- -**ChurnbyInternet Service Type:**
+ - **ChurnbyInternet Service Type:**
  
-   -Customers using Fiber Optic services show a higher churn rate of 30%, compared to DSL customers with a churn rate of 20%.
+   - Customers using Fiber Optic services show a higher churn rate of 30%, compared to DSL customers with a churn rate of 20%.
    -**Implication:** This could be due to increased competition or dissatisfaction with service quality. Understanding customer satisfaction with service speed and     reliability may help retain fiber optic users.
    
- -**Senior Citizens and Churn:**
+ - **Senior Citizens and Churn:**
  
-    - Theanalysis reveals that senior citizens (aged 65+) have a churn rate of 41%, compared to a 26% churn rate among non-senior citizens.
+    - The analysis reveals that senior citizens (aged 65+) have a churn rate of 41%, compared to a 26% churn rate among non-senior citizens.
      -**Implication:** Special retention programs and targeted customer service for senior customers may help reduce churn in this demographic

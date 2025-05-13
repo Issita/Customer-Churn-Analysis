@@ -139,6 +139,7 @@ plt.legend(title='Churn', bbox_to_anchor = (0.9,0.9))  # Customize legend locati
 
 plt.show()
 ```
+![](https://github.com/Issita/Customer-Churn-Analysis/blob/main/Churn%20by%20Senior%20Citizen%20(Stacked%20Bar%20Chart).png)
 **comparative a greater pecentage of people in senior citizen category have churned**
 ```python
 plt.figure(figsize = (9,4))

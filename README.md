@@ -10,13 +10,10 @@ The analysis explores customer churn patterns, focusing on various factors such 
    Customers on month-to-month contracts exhibit the highest churn rate, with 42% of such customers likely to churn.
    Incontrast, customers on one-year and two-year contracts have churn rates of 11% and 3%, respectively.
    **Implication:** Longer contract periods serve as a strong retention tool, as customers with extended commitments are far less likely to leave.
- ● PaymentMethods and Churn:
- ○ Customers paying via electronic checks show the highest churn rate at 45%,
- while those using credit cards, bank transfers, or mailed checks have
- significantly lower churn rates, averaging around 15-18%.
- ○ Implication: The convenience, security, and trust issues related to electronic
- payments might be contributing factors. Encouraging customers to switch to
- more stable payment methods could reduce churn.
+- **PaymentMethods and Churn:**
+
+    Customers paying via electronic checks show the highest churn rate at 45%, while those using credit cards, bank transfers, or mailed checks have significantly      lower churn rates, averaging around 15-18%.
+    **Implication:** The convenience, security, and trust issues related to electronic payments might be contributing factors. Encouraging customers to switch to       more stable payment methods could reduce churn.
  ● ChurnbyTenure:
  ○ Customers with less than one year of tenure are the most likely to churn, with a
  50% churn rate. Those with 1-3 years of tenure show a decreasing churn trend

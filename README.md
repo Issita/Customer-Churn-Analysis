@@ -146,6 +146,7 @@ plt.figure(figsize = (9,4))
 sns.histplot(x = "tenure", data = df, bins = 72, hue = "Churn")
 plt.show()
 ```
+![](https://github.com/Issita/Customer-Churn-Analysis/blob/main/histogram.png)
 **people who have used our services for a long time have stayed and people who have used our sevices**
 ```python
 plt.figure(figsize=(4,4))

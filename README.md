@@ -30,3 +30,15 @@ The analysis explores customer churn patterns, focusing on various factors such 
  
     - The analysis reveals that senior citizens (aged 65+) have a churn rate of 41%, compared to a 26% churn rate among non-senior citizens.
      - **Implication:** Special retention programs and targeted customer service for senior customers may help reduce churn in this demographic
+
+**Python Code**
+
+```python
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+df = pd.read_csv('Customer Churn.csv')
+df.head()
+```

@@ -195,5 +195,5 @@ plt.title('Churned Customer by Payment Method')
 plt.xticks(rotation = 90)
 plt.show()
 ```
-![Churned Customer by Payment Method](https://ibb.co/XrZ5Y8BQ)
+
 **customer is likely to churn when he is using electronic check as a payment method.**

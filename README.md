@@ -90,7 +90,7 @@ ax.bar_label(ax.containers[0])
 plt.title('Count of customer by Churn')
 plt.show()
 ```
-
+![]https://github.com/Issita/Customer-Churn-Analysis/blob/main/Count%20of%20customer%20by%20Churn.png
 ```python
 plt.figure(figsize=(3,4))
 gb = df.groupby('Churn').agg({'Churn':'count'})

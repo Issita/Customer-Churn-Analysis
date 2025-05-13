@@ -185,6 +185,7 @@ for j in range(i + 1, len(axes)):
 plt.tight_layout()
 plt.show()
 ```
+![](https://github.com/Issita/Customer-Churn-Analysis/blob/main/multiple_visual.png)
 **The majority of customers who do not churn tend to have services like PhoneService, InternetService (particularly DSL), and OnlineSecurity enabled. For services like OnlineBackup, TechSupport, and StreamingTV, churn rates are noticeably higher when these services are not used or are unavailable.**
 ```python
 plt.figure(figsize=(9,4))

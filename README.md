@@ -98,6 +98,7 @@ plt.pie(gb['Churn'],labels=gb.index, autopct="%1.2f%%")
 plt.title('Percentage of churned customer',fontsize = 10)
 plt.show()
 ```
+![](https://github.com/Issita/Customer-Churn-Analysis/blob/main/Percentage%20of%20churned%20customer.png)
 **from the given pie chart we can conclude that 26.54% of our customers have churned out.**
 ```python
 plt.figure(figsize=(3,4))

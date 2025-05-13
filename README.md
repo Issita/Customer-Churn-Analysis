@@ -152,6 +152,7 @@ ax.bar_label(ax.containers[0])
 plt.title('Count of Customer by Contract')
 plt.show()
 ```
+![](https://github.com/Issita/Customer-Churn-Analysis/blob/main/Count%20of%20Customer%20by%20Contract.png)
 **people who have month to month contract are likely to churn then from those who have 1 or 2 years or contract.**
 ```python
 df.columns.values

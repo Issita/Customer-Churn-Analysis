@@ -106,7 +106,7 @@ sns.countplot(x='gender',data=df, hue='Churn')
 plt.title('Churn by gender')
 plt.show()
 ```
-
+![](https://github.com/Issita/Customer-Churn-Analysis/blob/main/Churn%20by%20gender.png)
 ```python
 plt.figure(figsize=(3,4))
 ax=sns.countplot(x='SeniorCitizen',data=df, hue='Churn')

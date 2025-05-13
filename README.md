@@ -115,7 +115,7 @@ ax.bar_label(ax.containers[1])
 plt.title('Churn by SeniorCitizen')
 plt.show()
 ```
-
+![](https://github.com/Issita/Customer-Churn-Analysis/blob/main/Churn%20by%20SeniorCitizen.png)
 ```python
 total_counts = df.groupby('SeniorCitizen')['Churn'].value_counts(normalize=True).unstack() * 100
 

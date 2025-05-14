@@ -202,3 +202,5 @@ plt.show()
 ```
 ![](https://github.com/Issita/Customer-Churn-Analysis/blob/main/Churned%20Customer%20by%20Payment%20Method.png)
 **customer is likely to churn when he is using electronic check as a payment method.**
+
+

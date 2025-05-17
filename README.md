@@ -204,3 +204,7 @@ plt.show()
 **customer is likely to churn when he is using electronic check as a payment method.**
 
 
+
+
+
+
